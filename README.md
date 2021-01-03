@@ -24,6 +24,6 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
-# Tweeter-home-page
+# Twitter-home-page
 Practicing Vue.js 2 and Tailwind CSS with this exercise
 >>>>>>> 378e3c3c81ee693268eeb3a179da496b32c30a96
